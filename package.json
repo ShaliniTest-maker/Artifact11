@@ -1,0 +1,14 @@
+{
+  "name": "artifact11",
+  "version": "1.0.0",
+  "description": "Node.js tutorial server exposing Hello world and Good evening endpoints via Express.js",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "license": "ISC"
+}
